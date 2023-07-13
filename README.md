@@ -1,9 +1,9 @@
 # Dashatars
 ## The Dash Avatar's 🐦
 
-### [Developer Dash's](Developer)
-### [Designer Dash's](Designer)
-### [Manager Dash's](Manager)
+### [Developer Dashs](Developer)
+### [Designer Dashs](Designer)
+### [Manager Dashs](Manager)
 
 <p align="center">
   <img src="Dashatars.png" />
