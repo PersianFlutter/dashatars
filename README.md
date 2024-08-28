@@ -1,5 +1,5 @@
 # Dashatars
-## The Dash Avatar's 🐦
+## Dash Avatars 🐦
 
 ### [Developer Dashs](Developer)
 ### [Designer Dashs](Designer)
